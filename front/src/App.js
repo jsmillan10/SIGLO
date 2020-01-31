@@ -17,9 +17,9 @@ function App() {
         >
           Visitanos mientras tanto.
         </a>
-      </header>
       <br/><br/><br/>
       <Ejemplo />
+      </header>
     </div>
   );
 }

@@ -7,7 +7,8 @@ export default combineReducers({
     /*
     Aqui se deben agregar los demas reducers, ejemplo:
     reducer1,
-    reducer2, 
+    reducer2,
+    reducer3
     etc...
     */
 });

@@ -1,7 +1,6 @@
 package com.ealaboratorios.siglo.controladores;
 
 import com.ealaboratorios.siglo.modelos.Muestra;
-import com.ealaboratorios.siglo.repositorios.MuestrasRepo;
 import com.ealaboratorios.siglo.servicios.IMuestrasServicio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

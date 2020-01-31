@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Ejemplo from './components/Ejemplo'
 
 function App() {
   return (
@@ -17,6 +18,8 @@ function App() {
           Visitanos mientras tanto.
         </a>
       </header>
+      <br/><br/><br/>
+      <Ejemplo />
     </div>
   );
 }
